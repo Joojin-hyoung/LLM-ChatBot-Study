@@ -20,7 +20,7 @@
 - 작은 프로젝트 단위로 누적
 
 ## 디렉토리 구조
-
+```text
 llm-chatbot-study/
 │
 ├─ README.md
@@ -52,7 +52,7 @@ llm-chatbot-study/
 │   └─ README.md
 │
 └─ requirements.txt
-
+```
 
 ## 참고 도서
 - LUVIT♥ 파이썬으로 만드는 초경량 한국어 LLM 챗봇
