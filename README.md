@@ -25,6 +25,9 @@ llm-chatbot-study/
 │
 ├─ README.md
 │
+├─ setup/
+│   ├─ check_environment.py
+|
 ├─ week01_chatbot_basics/
 │   ├─ chatbot_day0.py
 │   ├─ chatbot_day1.py
